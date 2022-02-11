@@ -12,6 +12,5 @@ public class TaksiHesap {
         }
         else{
             System.out.println("Tutar: "+ ucret);
-        }
     }
 }
